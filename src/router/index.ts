@@ -69,7 +69,7 @@ export const router: Router = createRouter({
       if (savedPosition) {
         return savedPosition;
       } else {
-        if (from.meta.saveSrollTop) {
+        if (from.meta.saveSrollTop) {  //如果有记住滚动位置，则滚动
           const top: number =
             document.documentElement.scrollTop || document.body.scrollTop;
           resolve({ left: 0, top });

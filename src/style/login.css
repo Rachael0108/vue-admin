@@ -10,7 +10,7 @@
   width: 100vw;
   height: 100vh;
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  place-items: center center;
   grid-gap: 18rem;
   padding: 0 2rem;
 }

@@ -17,17 +17,17 @@ const themeColors = {
     vxeColor,
     subMenuActiveText: "#fff",
     menuBg: "#001529",
-    menuHover: "#4091f7",
+    menuHover: "#59bfc1",
     subMenuBg: "#0f0303",
-    subMenuActiveBg: "#4091f7",
+    subMenuActiveBg: "#59bfc1",
     menuText: "rgb(254 254 254 / 65%)",
     sidebarLogo: "#002140",
     menuTitleHover: "#fff",
-    menuActiveBefore: "#4091f7"
+    menuActiveBefore: "#59bfc1"
   },
   light: {
     vxeColor,
-    subMenuActiveText: "#409eff",
+    subMenuActiveText: "#59bfc1",
     menuBg: "#fff",
     menuHover: "#e0ebf6",
     subMenuBg: "#fff",
@@ -35,7 +35,7 @@ const themeColors = {
     menuText: "#7a80b4",
     sidebarLogo: "#fff",
     menuTitleHover: "#000",
-    menuActiveBefore: "#4091f7"
+    menuActiveBefore: "#59bfc1"
   },
   dusk: {
     vxeColor: "#f5222d",
